@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yziQQkfzpPGt8jJQg55DUZImYPbTelJYLJ4zyZ2jLuFlOBWthHroPSNVr8K6Zv09jUz1WmYsJagYdjaa1C3UWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yara\\source\\repos\\JogosCampeoesLoteria\\JogosCampeoesLoteria\\JogosCampeoesLoteria.iOS\\JogosCampeoesLoteria.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yara\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
